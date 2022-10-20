@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1601851541 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\asignacion\src\familia.cpp
+	"Familia.h"
+	<ostream>
+	<vector>
+	<cassert>
+
+1601851513 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\asignacion\include\familia.h
+	<iostream>
+	<ostream>
+	<vector>
+
+1601851671 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\asignacion\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	"Familia.h"
+
+1606496809 source:c:\users\k12_a\onedrive\documents\proyectos_codebolcks\tp2\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	"Familia.h"
+	"Solucion.h"
+
+1604782367 c:\users\k12_a\onedrive\documents\proyectos_codebolcks\tp2\include\familia.h
+	<iostream>
+	<ostream>
+	<vector>
+
+1606244600 source:c:\users\k12_a\onedrive\documents\proyectos_codebolcks\tp2\src\familia.cpp
+	"Familia.h"
+	<ostream>
+	<vector>
+	<cassert>
+
+1604620448 c:\users\k12_a\onedrive\documents\proyectos_codebolcks\tp2\include\parque.h
+	"Solucion.h"
+	<iostream>
+	<limits.h>
+
+1602901948 source:c:\users\k12_a\onedrive\documents\proyectos_codebolcks\tp2\src\solucion.cpp
+	"Solucion.h"
+
+1606352073 c:\users\k12_a\onedrive\documents\proyectos_codebolcks\tp2\include\solucion.h
+	"vector"
+
